@@ -1,0 +1,49 @@
+
+h1 {
+text-align:center;
+color: black;
+font-weight: strong;
+
+} 
+
+header {
+background-image: url(371123_Panorama_xl.ori.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+height: 450px;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+input {
+
+    text-align:start;
+}
+
+body {
+
+    background-color: grey;
+}
